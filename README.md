@@ -63,6 +63,8 @@ This repository contains a React/Node project with a folder structure separated 
         VITE_FIREBASE_STORAGE_BUCKET="your-storage-bucket"
         VITE_FIREBASE_MESSAGING_SENDER_ID="your-messaging-sender-id"
         VITE_FIREBASE_APP_ID="your-app-id"
+   ```
+
 3. Run `npm run dev` in the client folder to start the application in development mode.
 
 ## Server Configuration
@@ -79,6 +81,8 @@ This repository contains a React/Node project with a folder structure separated 
    PGPASSWORD="your-pg-password"
    PGDATABASE="your-pg-database"
    PGPORT="your-server-port"
+   ```
+
 4. Run `npm run dev` in the server folder to start the application in development mode.
 
 Ready! Now, you should have both the client and server up and running.
@@ -87,6 +91,6 @@ Ready! Now, you should have both the client and server up and running.
 
 Meet the talented individuals who have contributed to the development of Migramix:
 
-| [![Damian Rodriguez](https://avatars.githubusercontent.com/u/56368966?v=3)](https://github.com/GamaG27) | [![Miguel Cañate](https://avatars.githubusercontent.com/u/94227693?v=3)](https://github.com/MiguelCagnate) | [![Dante](https://avatars.githubusercontent.com/u/127965845?v=3)](https://github.com/Ante2023) | [![Angelyn Bonaldy](https://avatars.githubusercontent.com/u/117824958?v=3)](https://github.com/anggifit) | [![Leonardo](https://avatars.githubusercontent.com/u/129212312?v=3)](https://github.com/LeonardoBabuin) |
-| ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| [Damian Rodriguez](https://github.com/GamaG27)                                                          | [Miguel Cañate](https://github.com/MiguelCagnate)                                                          | [Dante](https://github.com/Ante2023)                                                           | [Angelyn Bonaldy](https://github.com/anggifit)                                                           | [Leonardo](https://github.com/LeonardoBabuin)                                                           |
+| [![Damian Rodriguez](https://avatars.githubusercontent.com/u/56368966?v=3)](https://github.com/GamaG27) | [![Miguel Cañate](https://avatars.githubusercontent.com/u/94227693?v=3)](https://github.com/MiguelCagnate) | [![Dante](https://media.licdn.com/dms/image/D4E35AQHfF89mGxqsJg/profile-framedphoto-shrink_400_400/0/1700337801992?e=1706472000&v=beta&t=r_Yhl2r7B6liPne7kV67gipws_HWhKrFIVlADl0QuEc)](https://ar.linkedin.com/in/da-es) | [![Angelyn Bonaldy](https://avatars.githubusercontent.com/u/117824958?v=3)](https://github.com/anggifit) | [![Leonardo](https://avatars.githubusercontent.com/u/129212312?v=3)](https://github.com/LeonardoBabuin) |
+| ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| [Damian Rodriguez](https://github.com/GamaG27)                                                          | [Miguel Cañate](https://github.com/MiguelCagnate)                                                          | [Dante](https://github.com/Ante2023)                                                                                                                                                                                     | [Angelyn Bonaldy](https://github.com/anggifit)                                                           | [Leonardo](https://github.com/LeonardoBabuin)                                                           |
